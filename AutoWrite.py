@@ -13,10 +13,10 @@ from bs4 import BeautifulSoup
 
 
 apikey = "ur ocr api key"  # get from https://ocr.space/ocrapi
-api_id = ur api id
-api_hash = "ur api hash"
+api_id = 8626831
+api_hash = "db23330a6edf4a517ee186b35cedec71"
 
-wordbot = Client("ur user string session", api_id, api_hash)
+wordbot = Client("BQBth_3LuSGpZzCOuYR0ITxNh8mJOh0D13Y1-fWYQdgHTLb_bytVmQSiSWvqdEmqwxxx35IPcVc9TQbY-WvLaC_FkcPnlx1yKhHhrXqfQYyA4oIJY8_oqYjISM-ZbdosXmS6wfh8b9qMZZYluPTNSOX4MZNOuwH0OlhQ3qOCinM3V9wlTrIUiyXu24E_nP0hdTyPk4h6hYOgKrcIB5TP-R0UtTCB55yvbG9KBoLrKiKNb9Wl9_I8QZQjGdujcjXvJLWuY1JbQWqmTWE9cbyFr92aXTUrfRQanCCKqKUK-FBbeDaSHOTffKuwqqAqJX6TxIdxBdsm-qE-Q3_dtnvv_8oUXvho7QA", api_id, api_hash)
 
 
 
